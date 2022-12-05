@@ -1,0 +1,1 @@
+key_vault_name = "devops_poc"
